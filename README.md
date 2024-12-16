@@ -1,0 +1,2 @@
+# gopoint
+golang
